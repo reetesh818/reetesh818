@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @reetesh818
 - 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning ReactJs and would love to collab on a project
+- 🌱 I’m a ReactJs Developer and would love to collab on a project
 
 
 <!---
